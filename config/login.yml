@@ -1,0 +1,14 @@
+# 单接口yml模板:
+name: login
+method: POST
+url: /dolphinscheduler/login
+headers: ~
+params:
+data:
+ userName:
+ userPassword:
+json: ~
+validate:
+  statusCode:
+  errorCode:
+  msg:

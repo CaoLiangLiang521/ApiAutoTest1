@@ -1,0 +1,16 @@
+#单接口yml模板:
+name: projects
+method: POST
+url: /dolphinscheduler/projects
+headers:
+  sessionId:
+params:
+    Cookie:
+data:
+  projectName:
+  userName:
+json: ~
+validate:
+  statusCode:
+  errorCode:
+  msg:

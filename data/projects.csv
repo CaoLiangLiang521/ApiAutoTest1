@@ -1,0 +1,4 @@
+projectName,userName,sessionId,Cookie,statusCode,errorCode,msg
+21,admin,18edfb6d-045c-4e45-b603-3a99bf06b073,ssecurityConfigType=PASSWORD; sessionId=18edfb6d-045c-4e45-b603-3a99bf06b073; language=zh_CN; sessionId=18edfb6d-045c-4e45-b603-3a99bf06b073,200,0,成功
+22,admin,18edfb6d-045c-4e45-b603-3a99bf06b073,securityConfigType=PASSWORD; sessionId=18edfb6d-045c-4e45-b603-3a99bf06b073; language=zh_CN; sessionId=18edfb6d-045c-4e45-b603-3a99bf06b073SWORD,200,0,成功
+21,admin,18edfb6d-045c-4e45-b603-3a99bf06b073,securityConfigType=PASSWORD; sessionId=18edfb6d-045c-4e45-b603-3a99bf06b073; language=zh_CN; sessionId=18edfb6d-045c-4e45-b603-3a99bf06b073,200,0,项目名称[21]已存在

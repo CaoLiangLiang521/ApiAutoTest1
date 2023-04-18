@@ -1,0 +1,4 @@
+userName,userPassword,statusCode,errorCode,msg
+admin,dolphinscheduler123,200,0,登陆成功
+admin,sdsdsds,200,10013,用户名或者密码错误
+admin,dolphinscheduler123,200,0,登陆成功
